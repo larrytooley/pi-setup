@@ -39,6 +39,8 @@ $ sudo apt install -y vim zsh build-essential vagrant gdb git
 ```
 Install rust from the website.
 
+https://rust-lang.org
+
 ---
 
 ## Check Python 3 Version
