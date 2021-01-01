@@ -1,6 +1,17 @@
 # pi-setup
 Instructions for setting up Raspberry Pi 4 for development
 
+
+---
+
+## Create new account
+
+```bash
+sudo adduser larry sudo
+```
+
+Log into new account to complete remaining steps
+
 ---
 
 ## Generate Keys
